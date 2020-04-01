@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,KACE,gBACF,CAGA,GAAM,cAAc,CAAE,gBAAkB,CAExC,yBACK,YAAa,CACb,eACL","file":"main.1560d09f.chunk.css","sourcesContent":["h1, p {\n  font-family: Lato;\n}\n\n\nli {  display:inline; padding:0.1em 1em }\n\nli:nth-child(8n+0):after {\n     content: \"\\A\";\n     white-space: pre;\n}\n"]}
