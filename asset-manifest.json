@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/merukhand/static/css/main.1aa161fd.chunk.css",
+    "main.css": "/merukhand/static/css/main.f64148bb.chunk.css",
     "main.js": "/merukhand/static/js/main.b25a738d.chunk.js",
     "main.js.map": "/merukhand/static/js/main.b25a738d.chunk.js.map",
     "runtime-main.js": "/merukhand/static/js/runtime-main.ee28f34b.js",
@@ -8,15 +8,15 @@
     "static/js/2.5ad8b500.chunk.js": "/merukhand/static/js/2.5ad8b500.chunk.js",
     "static/js/2.5ad8b500.chunk.js.map": "/merukhand/static/js/2.5ad8b500.chunk.js.map",
     "index.html": "/merukhand/index.html",
-    "precache-manifest.b3e5d661811853c5a655e887abe4111b.js": "/merukhand/precache-manifest.b3e5d661811853c5a655e887abe4111b.js",
+    "precache-manifest.bc8d8282d7ecd98fec4425b34a69a63b.js": "/merukhand/precache-manifest.bc8d8282d7ecd98fec4425b34a69a63b.js",
     "service-worker.js": "/merukhand/service-worker.js",
-    "static/css/main.1aa161fd.chunk.css.map": "/merukhand/static/css/main.1aa161fd.chunk.css.map",
+    "static/css/main.f64148bb.chunk.css.map": "/merukhand/static/css/main.f64148bb.chunk.css.map",
     "static/js/2.5ad8b500.chunk.js.LICENSE.txt": "/merukhand/static/js/2.5ad8b500.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ee28f34b.js",
     "static/js/2.5ad8b500.chunk.js",
-    "static/css/main.1aa161fd.chunk.css",
+    "static/css/main.f64148bb.chunk.css",
     "static/js/main.b25a738d.chunk.js"
   ]
 }
