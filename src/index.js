@@ -50,6 +50,9 @@ class App extends Component {
   render() {
     return (
       <div>
+        <p> Enter the swaras to generate the merukhand combinations. </p>
+        <p> Example - srg </p>
+
         <label>
           Swaras:
           <input type="text" value={this.state.swaras} onChange={(event) => this.setState({swaras: event.target.value})} />
